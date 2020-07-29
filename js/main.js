@@ -10,15 +10,15 @@
         switch(n){
             case 0:
                 btn.textContent = '大吉';
-                img.src = "../images/daikichi.png";
+                img.src = "images/daikichi.png";
                 break;
             case 1:
                 btn.textContent = '中吉';
-                img.src = "../images/chukichi.png";
+                img.src = "images/chukichi.png";
                 break;
             case 2:
                 btn.textContent = '吉';
-                img.src = "../images/kichi.png";
+                img.src = "images/kichi.png";
                 break;
         }
     });
